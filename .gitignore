@@ -1,0 +1,9 @@
+# Data
+data/raw/
+data/processed/
+
+# Models
+models/
+
+# Environment
+myenv/
