@@ -162,6 +162,12 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
+## Dataset
+
+1. Download dataset from Google Drive : https://drive.google.com/drive/folders/1PHbGMq1Se9EsHm2UBCOIYi1o1ngYnTxP
+2. `data/raw/`
+3. Fayl name: `restaurant_dataset.csv`
+
 # Model Evaluation Metrics
 
 Example metrics:
