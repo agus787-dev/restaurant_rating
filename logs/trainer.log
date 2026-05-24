@@ -1,0 +1,293 @@
+2026-05-23 14:58:41,806 - INFO - linear_regression train boshlandi
+2026-05-23 14:58:41,833 - INFO - linear_regression train tugadi
+2026-05-23 14:58:41,845 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'baseline', 'r2': 0.4646, 'mae': 0.9167, 'rmse': np.float64(1.1039)}
+2026-05-23 14:58:41,853 - INFO - Model saqlandi: models/baseline/linear_regression.joblib
+2026-05-23 14:58:41,867 - INFO - Natijalar saqlandi: results/baseline/metrics.csv
+2026-05-23 15:00:01,378 - INFO - linear_regression train started
+2026-05-23 15:00:01,392 - INFO - linear_regression train finished
+2026-05-23 15:00:01,399 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'baseline', 'r2': 0.4646, 'mae': 0.9167, 'rmse': np.float64(1.1039)}
+2026-05-23 15:00:01,405 - INFO - Model saqlandi: ../models/baseline/linear_regression.joblib
+2026-05-23 15:00:01,411 - INFO - Natijalar saqlandi: ../results/baseline/metrics.csv
+2026-05-23 15:00:01,465 - INFO - random_forest train started
+2026-05-23 15:00:08,106 - INFO - random_forest train finished
+2026-05-23 15:00:08,145 - INFO - Evaluate: {'model': 'random_forest', 'version': 'baseline', 'r2': 0.9876, 'mae': 0.1176, 'rmse': np.float64(0.1683)}
+2026-05-23 15:00:08,214 - INFO - Model saqlandi: ../models/baseline/random_forest.joblib
+2026-05-23 15:00:08,217 - INFO - Natijalar saqlandi: ../results/baseline/metrics.csv
+2026-05-23 15:07:50,583 - INFO - linear_regression train started
+2026-05-23 15:07:50,594 - INFO - linear_regression train finished
+2026-05-23 15:07:50,597 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'baseline', 'r2': 0.4646, 'mae': 0.9167, 'rmse': np.float64(1.1039)}
+2026-05-23 15:07:50,600 - INFO - Model saved: ../models/baseline/linear_regression.joblib
+2026-05-23 15:07:50,610 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-23 15:07:50,641 - INFO - random_forest train started
+2026-05-23 15:07:58,042 - INFO - random_forest train finished
+2026-05-23 15:07:58,081 - INFO - Evaluate: {'model': 'random_forest', 'version': 'baseline', 'r2': 0.9876, 'mae': 0.1176, 'rmse': np.float64(0.1683)}
+2026-05-23 15:07:58,150 - INFO - Model saved: ../models/baseline/random_forest.joblib
+2026-05-23 15:07:58,153 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-23 15:07:58,359 - INFO - Model loaded: ../models/baseline/random_forest.joblib
+2026-05-23 15:07:58,434 - INFO - Best model: random_forest | R2: 0.9876 | saved: ../models/baseline/best_model.joblib
+2026-05-23 15:10:13,590 - INFO - linear_regression train started
+2026-05-23 15:10:13,609 - INFO - linear_regression train finished
+2026-05-23 15:10:13,612 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'baseline', 'r2': 0.4646, 'mae': 0.9167, 'rmse': np.float64(1.1039)}
+2026-05-23 15:10:13,613 - INFO - Model saved: ../models/baseline/linear_regression.joblib
+2026-05-23 15:10:13,623 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-23 15:10:13,651 - INFO - random_forest train started
+2026-05-23 15:10:21,103 - INFO - random_forest train finished
+2026-05-23 15:10:21,147 - INFO - Evaluate: {'model': 'random_forest', 'version': 'baseline', 'r2': 0.9876, 'mae': 0.1176, 'rmse': np.float64(0.1683)}
+2026-05-23 15:10:21,239 - INFO - Model saved: ../models/baseline/random_forest.joblib
+2026-05-23 15:10:21,241 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-23 15:10:21,467 - INFO - Model loaded: ../models/baseline/random_forest.joblib
+2026-05-23 15:10:21,537 - INFO - Best model: random_forest | R2: 0.9876 | saved: ../models/baseline/best_model.joblib
+2026-05-23 16:45:46,411 - INFO - linear_regression train started
+2026-05-23 16:45:46,418 - INFO - linear_regression train finished
+2026-05-23 16:45:46,423 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -11.7468, 'mae': 5.107, 'rmse': np.float64(5.3864)}
+2026-05-23 16:45:46,426 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-23 16:45:46,430 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-23 16:46:11,036 - INFO - linear_regression train started
+2026-05-23 16:46:11,041 - INFO - linear_regression train finished
+2026-05-23 16:46:11,046 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -11.749, 'mae': 5.0821, 'rmse': np.float64(5.3868)}
+2026-05-23 16:46:11,048 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-23 16:46:11,055 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-23 16:46:46,435 - INFO - random_forest train started
+2026-05-23 16:46:56,228 - INFO - random_forest train finished
+2026-05-23 16:46:56,281 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.9652, 'mae': 0.2026, 'rmse': np.float64(0.2815)}
+2026-05-23 16:46:56,361 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-23 16:46:56,367 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-23 16:47:16,004 - INFO - random_forest train started
+2026-05-23 16:47:23,106 - INFO - random_forest train finished
+2026-05-23 16:47:23,143 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.9875, 'mae': 0.1185, 'rmse': np.float64(0.1688)}
+2026-05-23 16:47:23,217 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-23 16:47:23,220 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:20:26,248 - INFO - linear_regression train started
+2026-05-24 14:20:26,321 - INFO - linear_regression train finished
+2026-05-24 14:20:26,333 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -11.749, 'mae': 5.0821, 'rmse': np.float64(5.3868)}
+2026-05-24 14:20:26,339 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:20:26,343 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:20:26,365 - INFO - random_forest train started
+2026-05-24 14:20:33,505 - INFO - random_forest train finished
+2026-05-24 14:20:33,545 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.9875, 'mae': 0.1185, 'rmse': np.float64(0.1688)}
+2026-05-24 14:20:33,655 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:20:33,657 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:23:33,464 - INFO - linear_regression train started
+2026-05-24 14:23:33,486 - INFO - linear_regression train finished
+2026-05-24 14:23:33,509 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -11.7468, 'mae': 5.107, 'rmse': np.float64(5.3864)}
+2026-05-24 14:23:33,512 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:23:33,524 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:23:33,543 - INFO - random_forest train started
+2026-05-24 14:23:41,499 - INFO - random_forest train finished
+2026-05-24 14:23:41,536 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.9875, 'mae': 0.1185, 'rmse': np.float64(0.1688)}
+2026-05-24 14:23:41,602 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:23:41,606 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:25:52,074 - INFO - linear_regression train started
+2026-05-24 14:25:52,082 - INFO - linear_regression train finished
+2026-05-24 14:25:52,093 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -11.7468, 'mae': 5.107, 'rmse': np.float64(5.3864)}
+2026-05-24 14:25:52,095 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:25:52,100 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:26:52,213 - INFO - random_forest train started
+2026-05-24 14:26:59,081 - INFO - random_forest train finished
+2026-05-24 14:26:59,118 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.9875, 'mae': 0.1185, 'rmse': np.float64(0.1688)}
+2026-05-24 14:26:59,185 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:26:59,188 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:27:11,952 - INFO - linear_regression train started
+2026-05-24 14:27:11,956 - INFO - linear_regression train finished
+2026-05-24 14:27:11,965 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': 0.6738, 'mae': 0.7442, 'rmse': np.float64(0.8617)}
+2026-05-24 14:27:11,970 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:27:11,976 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:27:21,145 - INFO - random_forest train started
+2026-05-24 14:27:23,737 - INFO - random_forest train finished
+2026-05-24 14:27:23,784 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.9634, 'mae': 0.191, 'rmse': np.float64(0.2885)}
+2026-05-24 14:27:23,859 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:27:23,862 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:27:26,720 - INFO - linear_regression train started
+2026-05-24 14:27:26,728 - INFO - linear_regression train finished
+2026-05-24 14:27:26,735 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -11.749, 'mae': 5.0821, 'rmse': np.float64(5.3868)}
+2026-05-24 14:27:26,740 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:27:26,748 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:27:40,893 - INFO - random_forest train started
+2026-05-24 14:27:48,649 - INFO - random_forest train finished
+2026-05-24 14:27:48,690 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.9652, 'mae': 0.2026, 'rmse': np.float64(0.2815)}
+2026-05-24 14:27:48,760 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:27:48,764 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:30:41,139 - INFO - Model loaded: ../models/improved/random_forest.joblib
+2026-05-24 14:30:41,219 - INFO - Best model: random_forest | R2: 0.9875 | saved: ../models/improved/best_model.joblib
+2026-05-24 14:31:47,931 - INFO - linear_regression train started
+2026-05-24 14:31:47,941 - INFO - linear_regression train finished
+2026-05-24 14:31:47,947 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'baseline', 'r2': 0.4646, 'mae': 0.9167, 'rmse': np.float64(1.1039)}
+2026-05-24 14:31:47,949 - INFO - Model saved: ../models/baseline/linear_regression.joblib
+2026-05-24 14:31:47,952 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-24 14:31:47,963 - INFO - random_forest train started
+2026-05-24 14:31:55,765 - INFO - random_forest train finished
+2026-05-24 14:31:55,807 - INFO - Evaluate: {'model': 'random_forest', 'version': 'baseline', 'r2': 0.9876, 'mae': 0.1176, 'rmse': np.float64(0.1683)}
+2026-05-24 14:31:55,898 - INFO - Model saved: ../models/baseline/random_forest.joblib
+2026-05-24 14:31:55,902 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-24 14:31:56,119 - INFO - Model loaded: ../models/baseline/random_forest.joblib
+2026-05-24 14:31:56,188 - INFO - Best model: random_forest | R2: 0.9876 | saved: ../models/baseline/best_model.joblib
+2026-05-24 14:44:04,817 - INFO - linear_regression train started
+2026-05-24 14:44:04,829 - INFO - linear_regression train finished
+2026-05-24 14:44:04,832 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'baseline', 'r2': 0.2743, 'mae': 1.0152, 'rmse': np.float64(1.2852)}
+2026-05-24 14:44:04,835 - INFO - Model saved: ../models/baseline/linear_regression.joblib
+2026-05-24 14:44:04,842 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-24 14:44:04,884 - INFO - random_forest train started
+2026-05-24 14:44:11,839 - INFO - random_forest train finished
+2026-05-24 14:44:11,881 - INFO - Evaluate: {'model': 'random_forest', 'version': 'baseline', 'r2': 0.362, 'mae': 0.9362, 'rmse': np.float64(1.2051)}
+2026-05-24 14:44:11,965 - INFO - Model saved: ../models/baseline/random_forest.joblib
+2026-05-24 14:44:11,968 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-24 14:44:12,221 - INFO - Model loaded: ../models/baseline/random_forest.joblib
+2026-05-24 14:44:12,296 - INFO - Best model: random_forest | R2: 0.9876 | saved: ../models/baseline/best_model.joblib
+2026-05-24 14:45:05,258 - INFO - linear_regression train started
+2026-05-24 14:45:05,267 - INFO - linear_regression train finished
+2026-05-24 14:45:05,275 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'baseline', 'r2': 0.2743, 'mae': 1.0152, 'rmse': np.float64(1.2852)}
+2026-05-24 14:45:05,287 - INFO - Model saved: ../models/baseline/linear_regression.joblib
+2026-05-24 14:45:05,289 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-24 14:45:05,356 - INFO - random_forest train started
+2026-05-24 14:45:11,733 - INFO - random_forest train finished
+2026-05-24 14:45:11,774 - INFO - Evaluate: {'model': 'random_forest', 'version': 'baseline', 'r2': 0.362, 'mae': 0.9362, 'rmse': np.float64(1.2051)}
+2026-05-24 14:45:11,852 - INFO - Model saved: ../models/baseline/random_forest.joblib
+2026-05-24 14:45:11,855 - INFO - Results saved: ../results/baseline/metrics.csv
+2026-05-24 14:45:12,070 - INFO - Model loaded: ../models/baseline/random_forest.joblib
+2026-05-24 14:45:12,173 - INFO - Best model: random_forest | R2: 0.362 | saved: ../models/baseline/best_model.joblib
+2026-05-24 14:49:29,513 - INFO - linear_regression train started
+2026-05-24 14:49:29,522 - INFO - linear_regression train finished
+2026-05-24 14:49:29,571 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -94.0894, 'mae': 13.9632, 'rmse': np.float64(14.7117)}
+2026-05-24 14:49:29,576 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:49:29,580 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:49:32,985 - INFO - random_forest train started
+2026-05-24 14:49:40,036 - INFO - random_forest train finished
+2026-05-24 14:49:40,081 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.967, 'rmse': np.float64(1.2431)}
+2026-05-24 14:49:40,160 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:49:40,163 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:49:41,495 - INFO - linear_regression train started
+2026-05-24 14:49:41,499 - INFO - linear_regression train finished
+2026-05-24 14:49:41,504 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -113.4783, 'mae': 15.3241, 'rmse': np.float64(16.142)}
+2026-05-24 14:49:41,508 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:49:41,515 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:49:47,711 - INFO - random_forest train started
+2026-05-24 14:49:55,501 - INFO - random_forest train finished
+2026-05-24 14:49:55,543 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3228, 'mae': 0.9659, 'rmse': np.float64(1.2416)}
+2026-05-24 14:49:55,627 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:49:55,630 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:49:55,651 - INFO - linear_regression train started
+2026-05-24 14:49:55,657 - INFO - linear_regression train finished
+2026-05-24 14:49:55,662 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -120.6797, 'mae': 15.8034, 'rmse': np.float64(16.642)}
+2026-05-24 14:49:55,667 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 14:49:55,671 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:49:56,923 - INFO - random_forest train started
+2026-05-24 14:50:05,556 - INFO - random_forest train finished
+2026-05-24 14:50:05,601 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.9687, 'rmse': np.float64(1.2431)}
+2026-05-24 14:50:05,680 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 14:50:05,683 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 14:50:05,869 - INFO - Model loaded: ../models/improved/random_forest.joblib
+2026-05-24 14:50:05,944 - INFO - Best model: random_forest | R2: 0.3228 | saved: ../models/improved/best_model.joblib
+2026-05-24 15:14:16,917 - INFO - linear_regression train started
+2026-05-24 15:14:17,005 - INFO - linear_regression train finished
+2026-05-24 15:14:17,011 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -94.0894, 'mae': 13.9632, 'rmse': np.float64(14.7117)}
+2026-05-24 15:14:17,012 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:14:17,019 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:16:08,357 - INFO - linear_regression train started
+2026-05-24 15:16:08,366 - INFO - linear_regression train finished
+2026-05-24 15:16:08,374 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -94.0894, 'mae': 13.9632, 'rmse': np.float64(14.7117)}
+2026-05-24 15:16:08,380 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:16:08,398 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:16:08,398 - INFO - SHAP explain started: linear_regression
+2026-05-24 15:23:48,462 - INFO - linear_regression train started
+2026-05-24 15:23:48,471 - INFO - linear_regression train finished
+2026-05-24 15:23:48,481 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -94.0894, 'mae': 13.9632, 'rmse': np.float64(14.7117)}
+2026-05-24 15:23:48,483 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:23:48,493 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:23:48,493 - INFO - SHAP explain started: linear_regression
+2026-05-24 15:23:48,871 - INFO - SHAP explain finished
+2026-05-24 15:23:48,901 - INFO - random_forest train started
+2026-05-24 15:23:55,724 - INFO - random_forest train finished
+2026-05-24 15:23:55,765 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.967, 'rmse': np.float64(1.2431)}
+2026-05-24 15:23:55,840 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:23:55,843 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:23:55,862 - INFO - linear_regression train started
+2026-05-24 15:23:55,878 - INFO - linear_regression train finished
+2026-05-24 15:23:55,881 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -113.4783, 'mae': 15.3241, 'rmse': np.float64(16.142)}
+2026-05-24 15:23:55,884 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:23:55,888 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:23:55,965 - INFO - random_forest train started
+2026-05-24 15:24:03,304 - INFO - random_forest train finished
+2026-05-24 15:24:03,344 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3228, 'mae': 0.9659, 'rmse': np.float64(1.2416)}
+2026-05-24 15:24:03,425 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:24:03,428 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:24:03,466 - INFO - linear_regression train started
+2026-05-24 15:24:03,473 - INFO - linear_regression train finished
+2026-05-24 15:24:03,478 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -120.6797, 'mae': 15.8034, 'rmse': np.float64(16.642)}
+2026-05-24 15:24:03,484 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:24:03,491 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:24:03,545 - INFO - random_forest train started
+2026-05-24 15:24:11,067 - INFO - random_forest train finished
+2026-05-24 15:24:11,108 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.9687, 'rmse': np.float64(1.2431)}
+2026-05-24 15:24:11,185 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:24:11,188 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:24:11,383 - INFO - Model loaded: ../models/improved/random_forest.joblib
+2026-05-24 15:24:11,455 - INFO - Best model: random_forest | R2: 0.3228 | saved: ../models/improved/best_model.joblib
+2026-05-24 15:27:36,747 - INFO - linear_regression train started
+2026-05-24 15:27:36,759 - INFO - linear_regression train finished
+2026-05-24 15:27:36,764 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -94.0894, 'mae': 13.9632, 'rmse': np.float64(14.7117)}
+2026-05-24 15:27:36,770 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:27:36,790 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:27:36,791 - INFO - SHAP explain started: linear_regression
+2026-05-24 15:27:38,676 - INFO - SHAP explain finished
+2026-05-24 15:27:38,698 - INFO - random_forest train started
+2026-05-24 15:27:45,522 - INFO - random_forest train finished
+2026-05-24 15:27:45,584 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.967, 'rmse': np.float64(1.2431)}
+2026-05-24 15:27:45,694 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:27:45,698 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:27:45,720 - INFO - linear_regression train started
+2026-05-24 15:27:45,728 - INFO - linear_regression train finished
+2026-05-24 15:27:45,733 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -113.4783, 'mae': 15.3241, 'rmse': np.float64(16.142)}
+2026-05-24 15:27:45,740 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:27:45,753 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:27:45,805 - INFO - random_forest train started
+2026-05-24 15:27:54,080 - INFO - random_forest train finished
+2026-05-24 15:27:54,126 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3228, 'mae': 0.9659, 'rmse': np.float64(1.2416)}
+2026-05-24 15:27:54,205 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:27:54,208 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:27:54,237 - INFO - linear_regression train started
+2026-05-24 15:27:54,245 - INFO - linear_regression train finished
+2026-05-24 15:27:54,249 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -120.6797, 'mae': 15.8034, 'rmse': np.float64(16.642)}
+2026-05-24 15:27:54,253 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:27:54,259 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:27:54,343 - INFO - random_forest train started
+2026-05-24 15:28:03,431 - INFO - random_forest train finished
+2026-05-24 15:28:03,473 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.9687, 'rmse': np.float64(1.2431)}
+2026-05-24 15:28:03,550 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:28:03,553 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:28:03,707 - INFO - Model loaded: ../models/improved/random_forest.joblib
+2026-05-24 15:28:03,776 - INFO - Best model: random_forest | R2: 0.3228 | saved: ../models/improved/best_model.joblib
+2026-05-24 15:28:53,191 - INFO - random_forest train started
+2026-05-24 15:29:01,216 - INFO - random_forest train finished
+2026-05-24 15:29:01,296 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.967, 'rmse': np.float64(1.2431)}
+2026-05-24 15:29:01,425 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:29:01,432 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:29:01,433 - INFO - SHAP explain started: random_forest
+2026-05-24 15:29:44,196 - INFO - SHAP explain finished
+2026-05-24 15:30:23,570 - INFO - linear_regression train started
+2026-05-24 15:30:23,577 - INFO - linear_regression train finished
+2026-05-24 15:30:23,582 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -113.4783, 'mae': 15.3241, 'rmse': np.float64(16.142)}
+2026-05-24 15:30:23,584 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:30:23,590 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:30:23,590 - INFO - SHAP explain started: linear_regression
+2026-05-24 15:30:24,726 - INFO - SHAP explain finished
+2026-05-24 15:30:40,932 - INFO - random_forest train started
+2026-05-24 15:30:48,740 - INFO - random_forest train finished
+2026-05-24 15:30:48,783 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3228, 'mae': 0.9659, 'rmse': np.float64(1.2416)}
+2026-05-24 15:30:48,863 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:30:48,866 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:30:48,867 - INFO - SHAP explain started: random_forest
+2026-05-24 15:31:44,075 - INFO - SHAP explain finished
+2026-05-24 15:31:44,139 - INFO - linear_regression train started
+2026-05-24 15:31:44,148 - INFO - linear_regression train finished
+2026-05-24 15:31:44,154 - INFO - Evaluate: {'model': 'linear_regression', 'version': 'improved', 'r2': -120.6797, 'mae': 15.8034, 'rmse': np.float64(16.642)}
+2026-05-24 15:31:44,170 - INFO - Model saved: ../models/improved/linear_regression.joblib
+2026-05-24 15:31:44,174 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:31:44,175 - INFO - SHAP explain started: linear_regression
+2026-05-24 15:31:45,089 - INFO - SHAP explain finished
+2026-05-24 15:31:45,163 - INFO - random_forest train started
+2026-05-24 15:31:54,269 - INFO - random_forest train finished
+2026-05-24 15:31:54,339 - INFO - Evaluate: {'model': 'random_forest', 'version': 'improved', 'r2': 0.3211, 'mae': 0.9687, 'rmse': np.float64(1.2431)}
+2026-05-24 15:31:54,451 - INFO - Model saved: ../models/improved/random_forest.joblib
+2026-05-24 15:31:54,455 - INFO - Results saved: ../results/improved/metrics.csv
+2026-05-24 15:31:54,455 - INFO - SHAP explain started: random_forest
+2026-05-24 15:32:40,963 - INFO - SHAP explain finished

@@ -1,0 +1,784 @@
+2026-05-23 13:28:35,673 - INFO - fillna_train started
+2026-05-23 13:28:35,766 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 13:28:35,766 - INFO - fillna_test started
+2026-05-23 13:28:35,793 - INFO - fillna_test finished
+2026-05-23 13:35:50,286 - INFO - fillna_train started
+2026-05-23 13:35:50,328 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 13:35:50,329 - INFO - fillna_test started
+2026-05-23 13:35:50,333 - INFO - fillna_test finished
+2026-05-23 13:35:50,382 - INFO - encode_train started
+2026-05-23 13:35:50,406 - INFO -   Label encoding: restaurant_name
+2026-05-23 13:35:50,438 - INFO -   Label encoding: city
+2026-05-23 13:35:50,461 - INFO -   Label encoding: address
+2026-05-23 13:35:50,466 - INFO -   Label encoding: locality
+2026-05-23 13:35:50,470 - INFO -   Label encoding: locality_verbose
+2026-05-23 13:35:50,477 - INFO -   Label encoding: cuisines
+2026-05-23 13:35:50,480 - INFO -   Label encoding: currency
+2026-05-23 13:35:50,555 - INFO -   Label encoding: has_table_booking
+2026-05-23 13:35:50,558 - INFO -   Label encoding: has_online_delivery
+2026-05-23 13:35:50,560 - INFO -   Label encoding: is_delivering_now
+2026-05-23 13:35:50,562 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 13:35:50,572 - INFO -   Label encoding: rating_color
+2026-05-23 13:35:50,574 - INFO -   Label encoding: rating_text
+2026-05-23 13:35:50,575 - INFO - encode_train finished: 13 label, 0 onehot
+2026-05-23 13:35:50,575 - INFO - encode_test started
+2026-05-23 13:35:54,365 - INFO -   Label encoding: restaurant_name
+2026-05-23 13:35:54,906 - INFO -   Label encoding: city
+2026-05-23 13:35:56,680 - INFO -   Label encoding: address
+2026-05-23 13:35:59,303 - INFO -   Label encoding: locality
+2026-05-23 13:36:01,454 - INFO -   Label encoding: locality_verbose
+2026-05-23 13:36:03,984 - INFO -   Label encoding: cuisines
+2026-05-23 13:36:04,227 - INFO -   Label encoding: currency
+2026-05-23 13:36:04,448 - INFO -   Label encoding: has_table_booking
+2026-05-23 13:36:04,668 - INFO -   Label encoding: has_online_delivery
+2026-05-23 13:36:04,889 - INFO -   Label encoding: is_delivering_now
+2026-05-23 13:36:05,108 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 13:36:05,337 - INFO -   Label encoding: rating_color
+2026-05-23 13:36:05,566 - INFO -   Label encoding: rating_text
+2026-05-23 13:36:05,567 - INFO - encode_test finished: 20 columns
+2026-05-23 13:36:05,651 - INFO - scale_train started
+2026-05-23 13:36:05,724 - INFO - scale_train finished: 20 columns are done scaled
+2026-05-23 13:36:05,724 - INFO - scale_test started
+2026-05-23 13:36:05,755 - INFO - scale_test finished
+2026-05-23 13:39:57,803 - INFO - fillna_train started
+2026-05-23 13:39:57,858 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 13:39:57,858 - INFO - fillna_test started
+2026-05-23 13:39:57,895 - INFO - fillna_test finished
+2026-05-23 13:39:57,939 - INFO - encode_train started
+2026-05-23 13:39:57,978 - INFO -   Label encoding: restaurant_name
+2026-05-23 13:39:57,984 - INFO -   Label encoding: city
+2026-05-23 13:39:58,024 - INFO -   Label encoding: address
+2026-05-23 13:39:58,029 - INFO -   Label encoding: locality
+2026-05-23 13:39:58,037 - INFO -   Label encoding: locality_verbose
+2026-05-23 13:39:58,045 - INFO -   Label encoding: cuisines
+2026-05-23 13:39:58,048 - INFO -   Label encoding: currency
+2026-05-23 13:39:58,050 - INFO -   Label encoding: has_table_booking
+2026-05-23 13:39:58,052 - INFO -   Label encoding: has_online_delivery
+2026-05-23 13:39:58,054 - INFO -   Label encoding: is_delivering_now
+2026-05-23 13:39:58,059 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 13:39:58,061 - INFO -   Label encoding: rating_color
+2026-05-23 13:39:58,063 - INFO -   Label encoding: rating_text
+2026-05-23 13:39:58,063 - INFO - encode_train finished: 13 label, 0 onehot
+2026-05-23 13:39:58,063 - INFO - encode_test started
+2026-05-23 13:40:01,662 - INFO -   Label encoding: restaurant_name
+2026-05-23 13:40:02,485 - INFO -   Label encoding: city
+2026-05-23 13:40:04,248 - INFO -   Label encoding: address
+2026-05-23 13:40:07,032 - INFO -   Label encoding: locality
+2026-05-23 13:40:10,723 - INFO -   Label encoding: locality_verbose
+2026-05-23 13:40:15,276 - INFO -   Label encoding: cuisines
+2026-05-23 13:40:15,546 - INFO -   Label encoding: currency
+2026-05-23 13:40:15,778 - INFO -   Label encoding: has_table_booking
+2026-05-23 13:40:16,183 - INFO -   Label encoding: has_online_delivery
+2026-05-23 13:40:16,513 - INFO -   Label encoding: is_delivering_now
+2026-05-23 13:40:16,741 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 13:40:17,024 - INFO -   Label encoding: rating_color
+2026-05-23 13:40:17,335 - INFO -   Label encoding: rating_text
+2026-05-23 13:40:17,336 - INFO - encode_test finished: 20 columns
+2026-05-23 13:40:17,457 - INFO - scale_train started
+2026-05-23 13:40:17,600 - INFO - scale_train finished: 20 columns are done scaled
+2026-05-23 13:40:17,600 - INFO - scale_test started
+2026-05-23 13:40:17,785 - INFO - scale_test finished
+2026-05-23 13:41:04,644 - INFO - fillna_train started
+2026-05-23 13:41:04,721 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 13:41:04,721 - INFO - fillna_test started
+2026-05-23 13:41:04,728 - INFO - fillna_test finished
+2026-05-23 13:41:04,769 - INFO - encode_train started
+2026-05-23 13:41:04,804 - INFO -   Label encoding: restaurant_name
+2026-05-23 13:41:04,807 - INFO -   Label encoding: city
+2026-05-23 13:41:04,830 - INFO -   Label encoding: address
+2026-05-23 13:41:04,835 - INFO -   Label encoding: locality
+2026-05-23 13:41:04,840 - INFO -   Label encoding: locality_verbose
+2026-05-23 13:41:04,846 - INFO -   Label encoding: cuisines
+2026-05-23 13:41:04,848 - INFO -   Label encoding: currency
+2026-05-23 13:41:04,851 - INFO -   Label encoding: has_table_booking
+2026-05-23 13:41:04,853 - INFO -   Label encoding: has_online_delivery
+2026-05-23 13:41:04,854 - INFO -   Label encoding: is_delivering_now
+2026-05-23 13:41:04,856 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 13:41:04,858 - INFO -   Label encoding: rating_color
+2026-05-23 13:41:04,861 - INFO -   Label encoding: rating_text
+2026-05-23 13:41:04,861 - INFO - encode_train finished: 13 label, 0 onehot
+2026-05-23 13:41:04,861 - INFO - encode_test started
+2026-05-23 13:41:08,302 - INFO -   Label encoding: restaurant_name
+2026-05-23 13:41:08,829 - INFO -   Label encoding: city
+2026-05-23 13:41:10,462 - INFO -   Label encoding: address
+2026-05-23 13:41:12,690 - INFO -   Label encoding: locality
+2026-05-23 13:41:14,946 - INFO -   Label encoding: locality_verbose
+2026-05-23 13:41:18,465 - INFO -   Label encoding: cuisines
+2026-05-23 13:41:18,831 - INFO -   Label encoding: currency
+2026-05-23 13:41:19,252 - INFO -   Label encoding: has_table_booking
+2026-05-23 13:41:19,837 - INFO -   Label encoding: has_online_delivery
+2026-05-23 13:41:20,225 - INFO -   Label encoding: is_delivering_now
+2026-05-23 13:41:20,466 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 13:41:20,823 - INFO -   Label encoding: rating_color
+2026-05-23 13:41:21,128 - INFO -   Label encoding: rating_text
+2026-05-23 13:41:21,128 - INFO - encode_test finished: 20 columns
+2026-05-23 13:41:21,269 - INFO - scale_train started
+2026-05-23 13:41:21,427 - INFO - scale_train finished: 20 columns are done scaled
+2026-05-23 13:41:21,427 - INFO - scale_test started
+2026-05-23 13:41:21,578 - INFO - scale_test finished
+2026-05-23 14:48:32,448 - INFO - fillna_train started
+2026-05-23 14:48:32,512 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 14:48:32,512 - INFO - fillna_test started
+2026-05-23 14:48:32,517 - INFO - fillna_test finished
+2026-05-23 14:48:32,563 - INFO - encode_train started
+2026-05-23 14:48:32,591 - INFO -   Label encoding: restaurant_name
+2026-05-23 14:48:32,594 - INFO -   Label encoding: city
+2026-05-23 14:48:32,616 - INFO -   Label encoding: address
+2026-05-23 14:48:32,621 - INFO -   Label encoding: locality
+2026-05-23 14:48:32,626 - INFO -   Label encoding: locality_verbose
+2026-05-23 14:48:32,631 - INFO -   Label encoding: cuisines
+2026-05-23 14:48:32,633 - INFO -   Label encoding: currency
+2026-05-23 14:48:32,635 - INFO -   Label encoding: has_table_booking
+2026-05-23 14:48:32,638 - INFO -   Label encoding: has_online_delivery
+2026-05-23 14:48:32,640 - INFO -   Label encoding: is_delivering_now
+2026-05-23 14:48:32,642 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 14:48:32,643 - INFO -   Label encoding: rating_color
+2026-05-23 14:48:32,646 - INFO -   Label encoding: rating_text
+2026-05-23 14:48:32,646 - INFO - encode_train finished: 13 label, 0 onehot
+2026-05-23 14:48:32,646 - INFO - encode_test started
+2026-05-23 14:48:36,393 - INFO -   Label encoding: restaurant_name
+2026-05-23 14:48:36,908 - INFO -   Label encoding: city
+2026-05-23 14:48:38,895 - INFO -   Label encoding: address
+2026-05-23 14:48:41,879 - INFO -   Label encoding: locality
+2026-05-23 14:48:44,143 - INFO -   Label encoding: locality_verbose
+2026-05-23 14:48:47,376 - INFO -   Label encoding: cuisines
+2026-05-23 14:48:47,854 - INFO -   Label encoding: currency
+2026-05-23 14:48:48,141 - INFO -   Label encoding: has_table_booking
+2026-05-23 14:48:48,523 - INFO -   Label encoding: has_online_delivery
+2026-05-23 14:48:48,864 - INFO -   Label encoding: is_delivering_now
+2026-05-23 14:48:49,223 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 14:48:49,594 - INFO -   Label encoding: rating_color
+2026-05-23 14:48:49,993 - INFO -   Label encoding: rating_text
+2026-05-23 14:48:49,994 - INFO - encode_test finished: 20 columns
+2026-05-23 14:48:50,125 - INFO - scale_train started
+2026-05-23 14:48:50,288 - INFO - scale_train finished: 20 columns are done scaled
+2026-05-23 14:48:50,288 - INFO - scale_test started
+2026-05-23 14:48:50,316 - INFO - scale_test finished
+2026-05-23 15:35:30,771 - INFO - fillna_train started
+2026-05-23 15:35:30,831 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 15:35:30,832 - INFO - fillna_test started
+2026-05-23 15:35:30,842 - INFO - fillna_test finished
+2026-05-23 15:38:34,488 - INFO - encode_train started
+2026-05-23 15:38:34,520 - INFO -   Label encoding: restaurant_name
+2026-05-23 15:38:34,524 - INFO -   Label encoding: city
+2026-05-23 15:38:34,591 - INFO -   Label encoding: address
+2026-05-23 15:38:34,613 - INFO -   Label encoding: locality
+2026-05-23 15:38:34,621 - INFO -   Label encoding: locality_verbose
+2026-05-23 15:38:34,627 - INFO -   Label encoding: cuisines
+2026-05-23 15:38:34,629 - INFO -   Label encoding: currency
+2026-05-23 15:38:34,631 - INFO -   Label encoding: has_table_booking
+2026-05-23 15:38:34,633 - INFO -   Label encoding: has_online_delivery
+2026-05-23 15:38:34,635 - INFO -   Label encoding: is_delivering_now
+2026-05-23 15:38:34,637 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 15:38:34,639 - INFO -   Label encoding: rating_color
+2026-05-23 15:38:34,641 - INFO -   Label encoding: rating_text
+2026-05-23 15:38:34,644 - INFO -   Label encoding: is_fully_active
+2026-05-23 15:38:34,644 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-23 15:38:34,644 - INFO - encode_test started
+2026-05-23 15:38:39,099 - INFO -   Label encoding: restaurant_name
+2026-05-23 15:38:39,618 - INFO -   Label encoding: city
+2026-05-23 15:38:41,596 - INFO -   Label encoding: address
+2026-05-23 15:38:44,522 - INFO -   Label encoding: locality
+2026-05-23 15:38:47,160 - INFO -   Label encoding: locality_verbose
+2026-05-23 15:38:50,449 - INFO -   Label encoding: cuisines
+2026-05-23 15:38:50,712 - INFO -   Label encoding: currency
+2026-05-23 15:38:50,961 - INFO -   Label encoding: has_table_booking
+2026-05-23 15:38:51,207 - INFO -   Label encoding: has_online_delivery
+2026-05-23 15:38:51,449 - INFO -   Label encoding: is_delivering_now
+2026-05-23 15:38:51,688 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 15:38:51,938 - INFO -   Label encoding: rating_color
+2026-05-23 15:38:52,200 - INFO -   Label encoding: rating_text
+2026-05-23 15:38:52,456 - INFO -   Label encoding: is_fully_active
+2026-05-23 15:38:52,457 - INFO - encode_test finished: 24 columns
+2026-05-23 15:38:52,465 - INFO - scale_train started
+2026-05-23 15:38:52,569 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 15:38:52,569 - INFO - scale_test started
+2026-05-23 15:38:52,602 - INFO - scale_test finished
+2026-05-23 15:54:11,996 - INFO - fillna_train started
+2026-05-23 15:54:12,067 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 15:54:12,067 - INFO - fillna_test started
+2026-05-23 15:54:12,076 - INFO - fillna_test finished
+2026-05-23 15:54:12,199 - INFO - encode_train started
+2026-05-23 15:54:12,325 - INFO -   Label encoding: restaurant_name
+2026-05-23 15:54:12,335 - INFO -   Label encoding: city
+2026-05-23 15:54:12,386 - INFO -   Label encoding: address
+2026-05-23 15:54:12,392 - INFO -   Label encoding: locality
+2026-05-23 15:54:12,399 - INFO -   Label encoding: locality_verbose
+2026-05-23 15:54:12,407 - INFO -   Label encoding: cuisines
+2026-05-23 15:54:12,458 - INFO -   Label encoding: currency
+2026-05-23 15:54:12,471 - INFO -   Label encoding: has_table_booking
+2026-05-23 15:54:12,477 - INFO -   Label encoding: has_online_delivery
+2026-05-23 15:54:12,481 - INFO -   Label encoding: is_delivering_now
+2026-05-23 15:54:12,483 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 15:54:12,487 - INFO -   Label encoding: rating_color
+2026-05-23 15:54:12,492 - INFO -   Label encoding: rating_text
+2026-05-23 15:54:12,497 - INFO -   Label encoding: is_fully_active
+2026-05-23 15:54:12,498 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-23 15:54:12,498 - INFO - encode_test started
+2026-05-23 15:54:16,125 - INFO -   Label encoding: restaurant_name
+2026-05-23 15:54:16,618 - INFO -   Label encoding: city
+2026-05-23 15:54:18,196 - INFO -   Label encoding: address
+2026-05-23 15:54:20,406 - INFO -   Label encoding: locality
+2026-05-23 15:54:22,754 - INFO -   Label encoding: locality_verbose
+2026-05-23 15:54:25,574 - INFO -   Label encoding: cuisines
+2026-05-23 15:54:25,832 - INFO -   Label encoding: currency
+2026-05-23 15:54:26,073 - INFO -   Label encoding: has_table_booking
+2026-05-23 15:54:26,311 - INFO -   Label encoding: has_online_delivery
+2026-05-23 15:54:26,557 - INFO -   Label encoding: is_delivering_now
+2026-05-23 15:54:26,797 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 15:54:27,052 - INFO -   Label encoding: rating_color
+2026-05-23 15:54:27,304 - INFO -   Label encoding: rating_text
+2026-05-23 15:54:27,555 - INFO -   Label encoding: is_fully_active
+2026-05-23 15:54:27,556 - INFO - encode_test finished: 24 columns
+2026-05-23 15:54:27,633 - INFO - scale_train started
+2026-05-23 15:54:27,757 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 15:54:27,758 - INFO - scale_test started
+2026-05-23 15:54:27,795 - INFO - scale_test finished
+2026-05-23 15:57:35,017 - INFO - fillna_train started
+2026-05-23 15:57:35,054 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 15:57:35,054 - INFO - fillna_test started
+2026-05-23 15:57:35,065 - INFO - fillna_test finished
+2026-05-23 15:57:35,176 - INFO - encode_train started
+2026-05-23 15:57:35,207 - INFO -   Label encoding: restaurant_name
+2026-05-23 15:57:35,210 - INFO -   Label encoding: city
+2026-05-23 15:57:35,262 - INFO -   Label encoding: address
+2026-05-23 15:57:35,272 - INFO -   Label encoding: locality
+2026-05-23 15:57:35,287 - INFO -   Label encoding: locality_verbose
+2026-05-23 15:57:35,293 - INFO -   Label encoding: cuisines
+2026-05-23 15:57:35,295 - INFO -   Label encoding: currency
+2026-05-23 15:57:35,297 - INFO -   Label encoding: has_table_booking
+2026-05-23 15:57:35,299 - INFO -   Label encoding: has_online_delivery
+2026-05-23 15:57:35,301 - INFO -   Label encoding: is_delivering_now
+2026-05-23 15:57:35,304 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 15:57:35,306 - INFO -   Label encoding: rating_color
+2026-05-23 15:57:35,308 - INFO -   Label encoding: rating_text
+2026-05-23 15:57:35,311 - INFO -   Label encoding: is_fully_active
+2026-05-23 15:57:35,311 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-23 15:57:35,311 - INFO - encode_test started
+2026-05-23 15:57:38,706 - INFO -   Label encoding: restaurant_name
+2026-05-23 15:57:39,192 - INFO -   Label encoding: city
+2026-05-23 15:57:40,773 - INFO -   Label encoding: address
+2026-05-23 15:57:42,953 - INFO -   Label encoding: locality
+2026-05-23 15:57:45,199 - INFO -   Label encoding: locality_verbose
+2026-05-23 15:57:47,916 - INFO -   Label encoding: cuisines
+2026-05-23 15:57:48,173 - INFO -   Label encoding: currency
+2026-05-23 15:57:48,408 - INFO -   Label encoding: has_table_booking
+2026-05-23 15:57:48,641 - INFO -   Label encoding: has_online_delivery
+2026-05-23 15:57:48,872 - INFO -   Label encoding: is_delivering_now
+2026-05-23 15:57:49,102 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 15:57:49,345 - INFO -   Label encoding: rating_color
+2026-05-23 15:57:49,595 - INFO -   Label encoding: rating_text
+2026-05-23 15:57:49,847 - INFO -   Label encoding: is_fully_active
+2026-05-23 15:57:49,847 - INFO - encode_test finished: 24 columns
+2026-05-23 15:57:58,569 - INFO - scale_train started
+2026-05-23 15:57:58,777 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 15:57:58,777 - INFO - scale_test started
+2026-05-23 15:57:58,907 - INFO - scale_test finished
+2026-05-23 16:01:13,970 - INFO - fillna_train started
+2026-05-23 16:01:14,024 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 16:01:14,024 - INFO - fillna_test started
+2026-05-23 16:01:14,031 - INFO - fillna_test finished
+2026-05-23 16:01:14,360 - INFO - encode_train started
+2026-05-23 16:01:14,407 - INFO -   Label encoding: restaurant_name
+2026-05-23 16:01:14,410 - INFO -   Label encoding: city
+2026-05-23 16:01:14,438 - INFO -   Label encoding: address
+2026-05-23 16:01:14,443 - INFO -   Label encoding: locality
+2026-05-23 16:01:14,448 - INFO -   Label encoding: locality_verbose
+2026-05-23 16:01:14,456 - INFO -   Label encoding: cuisines
+2026-05-23 16:01:14,458 - INFO -   Label encoding: currency
+2026-05-23 16:01:14,461 - INFO -   Label encoding: has_table_booking
+2026-05-23 16:01:14,463 - INFO -   Label encoding: has_online_delivery
+2026-05-23 16:01:14,465 - INFO -   Label encoding: is_delivering_now
+2026-05-23 16:01:14,467 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 16:01:14,469 - INFO -   Label encoding: rating_color
+2026-05-23 16:01:14,472 - INFO -   Label encoding: rating_text
+2026-05-23 16:01:14,477 - INFO -   Label encoding: is_fully_active
+2026-05-23 16:01:14,477 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-23 16:01:14,477 - INFO - encode_test started
+2026-05-23 16:01:18,095 - INFO -   Label encoding: restaurant_name
+2026-05-23 16:01:18,624 - INFO -   Label encoding: city
+2026-05-23 16:01:20,231 - INFO -   Label encoding: address
+2026-05-23 16:01:22,432 - INFO -   Label encoding: locality
+2026-05-23 16:01:24,702 - INFO -   Label encoding: locality_verbose
+2026-05-23 16:01:27,652 - INFO -   Label encoding: cuisines
+2026-05-23 16:01:27,924 - INFO -   Label encoding: currency
+2026-05-23 16:01:28,174 - INFO -   Label encoding: has_table_booking
+2026-05-23 16:01:28,452 - INFO -   Label encoding: has_online_delivery
+2026-05-23 16:01:28,702 - INFO -   Label encoding: is_delivering_now
+2026-05-23 16:01:28,947 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 16:01:29,203 - INFO -   Label encoding: rating_color
+2026-05-23 16:01:29,456 - INFO -   Label encoding: rating_text
+2026-05-23 16:01:29,717 - INFO -   Label encoding: is_fully_active
+2026-05-23 16:01:29,718 - INFO - encode_test finished: 24 columns
+2026-05-23 16:01:37,802 - INFO - scale_train started
+2026-05-23 16:01:37,994 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 16:01:37,994 - INFO - scale_test started
+2026-05-23 16:01:38,034 - INFO - scale_test finished
+2026-05-23 16:05:28,597 - INFO - scale_train started
+2026-05-23 16:05:28,732 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 16:05:28,732 - INFO - scale_test started
+2026-05-23 16:06:29,591 - INFO - scale_train started
+2026-05-23 16:06:29,747 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 16:06:29,748 - INFO - scale_test started
+2026-05-23 16:07:58,673 - INFO - fillna_train started
+2026-05-23 16:07:58,736 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 16:07:58,736 - INFO - fillna_test started
+2026-05-23 16:07:58,741 - INFO - fillna_test finished
+2026-05-23 16:07:58,874 - INFO - encode_train started
+2026-05-23 16:07:58,903 - INFO -   Label encoding: restaurant_name
+2026-05-23 16:07:58,906 - INFO -   Label encoding: city
+2026-05-23 16:07:58,936 - INFO -   Label encoding: address
+2026-05-23 16:07:58,940 - INFO -   Label encoding: locality
+2026-05-23 16:07:58,946 - INFO -   Label encoding: locality_verbose
+2026-05-23 16:07:58,952 - INFO -   Label encoding: cuisines
+2026-05-23 16:07:58,954 - INFO -   Label encoding: currency
+2026-05-23 16:07:58,956 - INFO -   Label encoding: has_table_booking
+2026-05-23 16:07:58,958 - INFO -   Label encoding: has_online_delivery
+2026-05-23 16:07:58,960 - INFO -   Label encoding: is_delivering_now
+2026-05-23 16:07:58,962 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 16:07:58,965 - INFO -   Label encoding: rating_color
+2026-05-23 16:07:58,967 - INFO -   Label encoding: rating_text
+2026-05-23 16:07:58,970 - INFO -   Label encoding: is_fully_active
+2026-05-23 16:07:58,970 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-23 16:07:58,970 - INFO - encode_test started
+2026-05-23 16:08:02,693 - INFO -   Label encoding: restaurant_name
+2026-05-23 16:08:03,235 - INFO -   Label encoding: city
+2026-05-23 16:08:04,839 - INFO -   Label encoding: address
+2026-05-23 16:08:07,050 - INFO -   Label encoding: locality
+2026-05-23 16:08:09,609 - INFO -   Label encoding: locality_verbose
+2026-05-23 16:08:12,749 - INFO -   Label encoding: cuisines
+2026-05-23 16:08:13,134 - INFO -   Label encoding: currency
+2026-05-23 16:08:13,415 - INFO -   Label encoding: has_table_booking
+2026-05-23 16:08:13,660 - INFO -   Label encoding: has_online_delivery
+2026-05-23 16:08:13,904 - INFO -   Label encoding: is_delivering_now
+2026-05-23 16:08:14,147 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 16:08:14,408 - INFO -   Label encoding: rating_color
+2026-05-23 16:08:14,665 - INFO -   Label encoding: rating_text
+2026-05-23 16:08:14,919 - INFO -   Label encoding: is_fully_active
+2026-05-23 16:08:14,920 - INFO - encode_test finished: 24 columns
+2026-05-23 16:08:24,534 - INFO - scale_train started
+2026-05-23 16:08:24,825 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 16:08:24,825 - INFO - scale_test started
+2026-05-23 16:08:24,870 - INFO - scale_test finished
+2026-05-23 16:20:21,306 - INFO - fillna_train started
+2026-05-23 16:20:21,432 - INFO - fillna_train finished: 20 columns filled
+2026-05-23 16:20:21,432 - INFO - fillna_test started
+2026-05-23 16:20:21,437 - INFO - fillna_test finished
+2026-05-23 16:20:21,567 - INFO - encode_train started
+2026-05-23 16:20:21,612 - INFO -   Label encoding: restaurant_name
+2026-05-23 16:20:21,615 - INFO -   Label encoding: city
+2026-05-23 16:20:21,637 - INFO -   Label encoding: address
+2026-05-23 16:20:21,641 - INFO -   Label encoding: locality
+2026-05-23 16:20:21,647 - INFO -   Label encoding: locality_verbose
+2026-05-23 16:20:21,652 - INFO -   Label encoding: cuisines
+2026-05-23 16:20:21,654 - INFO -   Label encoding: currency
+2026-05-23 16:20:21,656 - INFO -   Label encoding: has_table_booking
+2026-05-23 16:20:21,658 - INFO -   Label encoding: has_online_delivery
+2026-05-23 16:20:21,660 - INFO -   Label encoding: is_delivering_now
+2026-05-23 16:20:21,662 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 16:20:21,665 - INFO -   Label encoding: rating_color
+2026-05-23 16:20:21,667 - INFO -   Label encoding: rating_text
+2026-05-23 16:20:21,670 - INFO -   Label encoding: is_fully_active
+2026-05-23 16:20:21,670 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-23 16:20:21,670 - INFO - encode_test started
+2026-05-23 16:20:25,317 - INFO -   Label encoding: restaurant_name
+2026-05-23 16:20:25,808 - INFO -   Label encoding: city
+2026-05-23 16:20:27,688 - INFO -   Label encoding: address
+2026-05-23 16:20:30,165 - INFO -   Label encoding: locality
+2026-05-23 16:20:32,505 - INFO -   Label encoding: locality_verbose
+2026-05-23 16:20:35,285 - INFO -   Label encoding: cuisines
+2026-05-23 16:20:35,548 - INFO -   Label encoding: currency
+2026-05-23 16:20:35,792 - INFO -   Label encoding: has_table_booking
+2026-05-23 16:20:36,031 - INFO -   Label encoding: has_online_delivery
+2026-05-23 16:20:36,272 - INFO -   Label encoding: is_delivering_now
+2026-05-23 16:20:36,507 - INFO -   Label encoding: switch_to_order_menu
+2026-05-23 16:20:36,762 - INFO -   Label encoding: rating_color
+2026-05-23 16:20:37,017 - INFO -   Label encoding: rating_text
+2026-05-23 16:20:37,265 - INFO -   Label encoding: is_fully_active
+2026-05-23 16:20:37,266 - INFO - encode_test finished: 24 columns
+2026-05-23 16:20:45,506 - INFO - scale_train started
+2026-05-23 16:20:45,604 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-23 16:20:45,604 - INFO - scale_test started
+2026-05-23 16:20:45,641 - INFO - scale_test finished
+2026-05-24 14:18:29,035 - INFO - fillna_train started
+2026-05-24 14:18:29,111 - INFO - fillna_train finished: 20 columns filled
+2026-05-24 14:18:29,111 - INFO - fillna_test started
+2026-05-24 14:18:29,123 - INFO - fillna_test finished
+2026-05-24 14:18:29,281 - INFO - encode_train started
+2026-05-24 14:18:29,321 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:18:29,325 - INFO -   Label encoding: city
+2026-05-24 14:18:29,372 - INFO -   Label encoding: address
+2026-05-24 14:18:29,385 - INFO -   Label encoding: locality
+2026-05-24 14:18:29,393 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:18:29,399 - INFO -   Label encoding: cuisines
+2026-05-24 14:18:29,402 - INFO -   Label encoding: currency
+2026-05-24 14:18:29,404 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:18:29,406 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:18:29,407 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:18:29,409 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:18:29,411 - INFO -   Label encoding: rating_color
+2026-05-24 14:18:29,413 - INFO -   Label encoding: rating_text
+2026-05-24 14:18:29,418 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:18:29,419 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-24 14:18:29,419 - INFO - encode_test started
+2026-05-24 14:18:43,170 - INFO - fillna_train started
+2026-05-24 14:18:43,233 - INFO - fillna_train finished: 20 columns filled
+2026-05-24 14:18:43,233 - INFO - fillna_test started
+2026-05-24 14:18:43,319 - INFO - fillna_test finished
+2026-05-24 14:18:43,450 - INFO - encode_train started
+2026-05-24 14:18:43,496 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:18:43,501 - INFO -   Label encoding: city
+2026-05-24 14:18:43,537 - INFO -   Label encoding: address
+2026-05-24 14:18:43,588 - INFO -   Label encoding: locality
+2026-05-24 14:18:43,606 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:18:43,629 - INFO -   Label encoding: cuisines
+2026-05-24 14:18:43,637 - INFO -   Label encoding: currency
+2026-05-24 14:18:43,642 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:18:43,685 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:18:43,688 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:18:43,690 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:18:43,694 - INFO -   Label encoding: rating_color
+2026-05-24 14:18:43,699 - INFO -   Label encoding: rating_text
+2026-05-24 14:18:43,703 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:18:43,704 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-24 14:18:43,704 - INFO - encode_test started
+2026-05-24 14:18:47,270 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:18:47,798 - INFO -   Label encoding: city
+2026-05-24 14:18:49,404 - INFO -   Label encoding: address
+2026-05-24 14:18:51,630 - INFO -   Label encoding: locality
+2026-05-24 14:18:53,997 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:18:56,907 - INFO -   Label encoding: cuisines
+2026-05-24 14:18:57,171 - INFO -   Label encoding: currency
+2026-05-24 14:18:57,410 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:18:57,652 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:18:57,907 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:18:58,155 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:18:58,413 - INFO -   Label encoding: rating_color
+2026-05-24 14:18:58,673 - INFO -   Label encoding: rating_text
+2026-05-24 14:18:58,926 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:18:58,928 - INFO - encode_test finished: 24 columns
+2026-05-24 14:19:10,466 - INFO - scale_train started
+2026-05-24 14:19:10,625 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-24 14:19:10,625 - INFO - scale_test started
+2026-05-24 14:19:10,663 - INFO - scale_test finished
+2026-05-24 14:21:38,271 - INFO - fillna_train started
+2026-05-24 14:21:38,445 - INFO - fillna_train finished: 20 columns filled
+2026-05-24 14:21:38,446 - INFO - fillna_test started
+2026-05-24 14:21:38,453 - INFO - fillna_test finished
+2026-05-24 14:21:38,593 - INFO - encode_train started
+2026-05-24 14:21:38,636 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:21:38,639 - INFO -   Label encoding: city
+2026-05-24 14:21:38,679 - INFO -   Label encoding: address
+2026-05-24 14:21:38,687 - INFO -   Label encoding: locality
+2026-05-24 14:21:38,693 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:21:38,703 - INFO -   Label encoding: cuisines
+2026-05-24 14:21:38,709 - INFO -   Label encoding: currency
+2026-05-24 14:21:38,711 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:21:38,714 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:21:38,719 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:21:38,725 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:21:38,730 - INFO -   Label encoding: rating_color
+2026-05-24 14:21:38,732 - INFO -   Label encoding: rating_text
+2026-05-24 14:21:38,741 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:21:38,742 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-24 14:21:38,742 - INFO - encode_test started
+2026-05-24 14:21:42,529 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:21:43,043 - INFO -   Label encoding: city
+2026-05-24 14:21:44,736 - INFO -   Label encoding: address
+2026-05-24 14:21:47,181 - INFO -   Label encoding: locality
+2026-05-24 14:21:49,761 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:21:53,004 - INFO -   Label encoding: cuisines
+2026-05-24 14:21:53,275 - INFO -   Label encoding: currency
+2026-05-24 14:21:53,575 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:21:53,868 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:21:54,147 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:21:54,403 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:21:54,680 - INFO -   Label encoding: rating_color
+2026-05-24 14:21:55,028 - INFO -   Label encoding: rating_text
+2026-05-24 14:21:55,341 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:21:55,342 - INFO - encode_test finished: 24 columns
+2026-05-24 14:22:04,919 - INFO - scale_train started
+2026-05-24 14:22:05,110 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-24 14:22:05,111 - INFO - scale_test started
+2026-05-24 14:22:05,195 - INFO - scale_test finished
+2026-05-24 14:38:35,063 - INFO - fillna_train started
+2026-05-24 14:38:35,127 - INFO - fillna_train finished: 20 columns filled
+2026-05-24 14:38:35,127 - INFO - fillna_test started
+2026-05-24 14:38:35,134 - INFO - fillna_test finished
+2026-05-24 14:43:36,296 - INFO - fillna_train started
+2026-05-24 14:43:36,364 - INFO - fillna_train finished: 16 columns filled
+2026-05-24 14:43:36,365 - INFO - fillna_test started
+2026-05-24 14:43:36,370 - INFO - fillna_test finished
+2026-05-24 14:43:36,414 - INFO - encode_train started
+2026-05-24 14:43:36,455 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:43:36,458 - INFO -   Label encoding: city
+2026-05-24 14:43:36,486 - INFO -   Label encoding: address
+2026-05-24 14:43:36,491 - INFO -   Label encoding: locality
+2026-05-24 14:43:36,496 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:43:36,505 - INFO -   Label encoding: cuisines
+2026-05-24 14:43:36,508 - INFO -   Label encoding: currency
+2026-05-24 14:43:36,512 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:43:36,516 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:43:36,519 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:43:36,521 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:43:36,521 - INFO - encode_train finished: 11 label, 0 onehot
+2026-05-24 14:43:36,521 - INFO - encode_test started
+2026-05-24 14:43:40,786 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:43:41,338 - INFO -   Label encoding: city
+2026-05-24 14:43:43,073 - INFO -   Label encoding: address
+2026-05-24 14:43:45,396 - INFO -   Label encoding: locality
+2026-05-24 14:43:48,256 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:43:52,081 - INFO -   Label encoding: cuisines
+2026-05-24 14:43:52,377 - INFO -   Label encoding: currency
+2026-05-24 14:43:52,625 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:43:52,873 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:43:53,125 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:43:53,374 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:43:53,375 - INFO - encode_test finished: 16 columns
+2026-05-24 14:43:53,436 - INFO - scale_train started
+2026-05-24 14:43:53,524 - INFO - scale_train finished: 16 columns are done scaled
+2026-05-24 14:43:53,524 - INFO - scale_test started
+2026-05-24 14:43:53,562 - INFO - scale_test finished
+2026-05-24 14:44:45,445 - INFO - fillna_train started
+2026-05-24 14:44:45,482 - INFO - fillna_train finished: 16 columns filled
+2026-05-24 14:44:45,483 - INFO - fillna_test started
+2026-05-24 14:44:45,533 - INFO - fillna_test finished
+2026-05-24 14:44:45,576 - INFO - encode_train started
+2026-05-24 14:44:45,623 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:44:45,630 - INFO -   Label encoding: city
+2026-05-24 14:44:45,666 - INFO -   Label encoding: address
+2026-05-24 14:44:45,672 - INFO -   Label encoding: locality
+2026-05-24 14:44:45,682 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:44:45,694 - INFO -   Label encoding: cuisines
+2026-05-24 14:44:45,696 - INFO -   Label encoding: currency
+2026-05-24 14:44:45,698 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:44:45,702 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:44:45,704 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:44:45,706 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:44:45,706 - INFO - encode_train finished: 11 label, 0 onehot
+2026-05-24 14:44:45,707 - INFO - encode_test started
+2026-05-24 14:44:49,685 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:44:50,617 - INFO -   Label encoding: city
+2026-05-24 14:44:52,880 - INFO -   Label encoding: address
+2026-05-24 14:44:55,271 - INFO -   Label encoding: locality
+2026-05-24 14:44:58,125 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:45:01,246 - INFO -   Label encoding: cuisines
+2026-05-24 14:45:01,515 - INFO -   Label encoding: currency
+2026-05-24 14:45:01,765 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:45:02,023 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:45:02,298 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:45:02,539 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:45:02,540 - INFO - encode_test finished: 16 columns
+2026-05-24 14:45:02,629 - INFO - scale_train started
+2026-05-24 14:45:02,704 - INFO - scale_train finished: 16 columns are done scaled
+2026-05-24 14:45:02,705 - INFO - scale_test started
+2026-05-24 14:45:02,729 - INFO - scale_test finished
+2026-05-24 14:45:31,922 - INFO - fillna_train started
+2026-05-24 14:45:32,031 - INFO - fillna_train finished: 20 columns filled
+2026-05-24 14:45:32,031 - INFO - fillna_test started
+2026-05-24 14:45:32,050 - INFO - fillna_test finished
+2026-05-24 14:45:32,173 - INFO - encode_train started
+2026-05-24 14:45:32,213 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:45:32,215 - INFO -   Label encoding: city
+2026-05-24 14:45:32,253 - INFO -   Label encoding: address
+2026-05-24 14:45:32,262 - INFO -   Label encoding: locality
+2026-05-24 14:45:32,268 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:45:32,279 - INFO -   Label encoding: cuisines
+2026-05-24 14:45:32,283 - INFO -   Label encoding: currency
+2026-05-24 14:45:32,285 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:45:32,288 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:45:32,292 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:45:32,294 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:45:32,298 - INFO -   Label encoding: rating_color
+2026-05-24 14:45:32,301 - INFO -   Label encoding: rating_text
+2026-05-24 14:45:32,308 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:45:32,309 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-24 14:45:32,309 - INFO - encode_test started
+2026-05-24 14:45:40,823 - INFO - fillna_train started
+2026-05-24 14:45:40,898 - INFO - fillna_train finished: 20 columns filled
+2026-05-24 14:45:40,898 - INFO - fillna_test started
+2026-05-24 14:45:40,903 - INFO - fillna_test finished
+2026-05-24 14:45:41,000 - INFO - encode_train started
+2026-05-24 14:45:41,032 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:45:41,035 - INFO -   Label encoding: city
+2026-05-24 14:45:41,072 - INFO -   Label encoding: address
+2026-05-24 14:45:41,080 - INFO -   Label encoding: locality
+2026-05-24 14:45:41,088 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:45:41,096 - INFO -   Label encoding: cuisines
+2026-05-24 14:45:41,100 - INFO -   Label encoding: currency
+2026-05-24 14:45:41,231 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:45:41,234 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:45:41,238 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:45:41,255 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:45:41,259 - INFO -   Label encoding: rating_color
+2026-05-24 14:45:41,263 - INFO -   Label encoding: rating_text
+2026-05-24 14:45:41,267 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:45:41,267 - INFO - encode_train finished: 14 label, 0 onehot
+2026-05-24 14:45:41,267 - INFO - encode_test started
+2026-05-24 14:45:45,031 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:45:45,527 - INFO -   Label encoding: city
+2026-05-24 14:45:47,095 - INFO -   Label encoding: address
+2026-05-24 14:45:49,265 - INFO -   Label encoding: locality
+2026-05-24 14:45:51,522 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:45:54,673 - INFO -   Label encoding: cuisines
+2026-05-24 14:45:54,956 - INFO -   Label encoding: currency
+2026-05-24 14:45:55,198 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:45:55,438 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:45:55,682 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:45:55,917 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:45:56,171 - INFO -   Label encoding: rating_color
+2026-05-24 14:45:56,424 - INFO -   Label encoding: rating_text
+2026-05-24 14:45:56,786 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:45:56,787 - INFO - encode_test finished: 24 columns
+2026-05-24 14:46:04,839 - INFO - scale_train started
+2026-05-24 14:46:04,936 - INFO - scale_train finished: 24 columns are done scaled
+2026-05-24 14:46:04,936 - INFO - scale_test started
+2026-05-24 14:46:04,972 - INFO - scale_test finished
+2026-05-24 14:46:56,297 - INFO - fillna_train started
+2026-05-24 14:46:56,327 - INFO - fillna_train finished: 16 columns filled
+2026-05-24 14:46:56,327 - INFO - fillna_test started
+2026-05-24 14:46:56,336 - INFO - fillna_test finished
+2026-05-24 14:47:27,341 - INFO - fillna_train started
+2026-05-24 14:47:27,421 - INFO - fillna_train finished: 16 columns filled
+2026-05-24 14:47:27,421 - INFO - fillna_test started
+2026-05-24 14:47:27,430 - INFO - fillna_test finished
+2026-05-24 14:47:27,524 - INFO - encode_train started
+2026-05-24 14:47:27,559 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:47:27,563 - INFO -   Label encoding: city
+2026-05-24 14:47:27,602 - INFO -   Label encoding: address
+2026-05-24 14:47:27,611 - INFO -   Label encoding: locality
+2026-05-24 14:47:27,619 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:47:27,628 - INFO -   Label encoding: cuisines
+2026-05-24 14:47:27,631 - INFO -   Label encoding: currency
+2026-05-24 14:47:27,634 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:47:27,637 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:47:27,640 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:47:27,644 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:47:27,647 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:47:27,647 - INFO - encode_train finished: 12 label, 0 onehot
+2026-05-24 14:47:27,647 - INFO - encode_test started
+2026-05-24 14:47:31,809 - INFO -   Label encoding: restaurant_name
+2026-05-24 14:47:32,391 - INFO -   Label encoding: city
+2026-05-24 14:47:34,101 - INFO -   Label encoding: address
+2026-05-24 14:47:36,787 - INFO -   Label encoding: locality
+2026-05-24 14:47:39,225 - INFO -   Label encoding: locality_verbose
+2026-05-24 14:47:42,134 - INFO -   Label encoding: cuisines
+2026-05-24 14:47:42,401 - INFO -   Label encoding: currency
+2026-05-24 14:47:42,648 - INFO -   Label encoding: has_table_booking
+2026-05-24 14:47:42,893 - INFO -   Label encoding: has_online_delivery
+2026-05-24 14:47:43,141 - INFO -   Label encoding: is_delivering_now
+2026-05-24 14:47:43,378 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 14:47:43,629 - INFO -   Label encoding: is_fully_active
+2026-05-24 14:47:43,630 - INFO - encode_test finished: 19 columns
+2026-05-24 14:47:52,243 - INFO - scale_train started
+2026-05-24 14:47:52,504 - INFO - scale_train finished: 19 columns are done scaled
+2026-05-24 14:47:52,504 - INFO - scale_test started
+2026-05-24 14:47:52,570 - INFO - scale_test finished
+2026-05-24 15:14:52,558 - INFO - fillna_train started
+2026-05-24 15:14:52,616 - INFO - fillna_train finished: 16 columns filled
+2026-05-24 15:14:52,616 - INFO - fillna_test started
+2026-05-24 15:14:52,622 - INFO - fillna_test finished
+2026-05-24 15:14:52,707 - INFO - encode_train started
+2026-05-24 15:14:52,753 - INFO -   Label encoding: restaurant_name
+2026-05-24 15:14:52,757 - INFO -   Label encoding: city
+2026-05-24 15:14:52,795 - INFO -   Label encoding: address
+2026-05-24 15:14:52,800 - INFO -   Label encoding: locality
+2026-05-24 15:14:52,806 - INFO -   Label encoding: locality_verbose
+2026-05-24 15:14:52,812 - INFO -   Label encoding: cuisines
+2026-05-24 15:14:52,814 - INFO -   Label encoding: currency
+2026-05-24 15:14:52,817 - INFO -   Label encoding: has_table_booking
+2026-05-24 15:14:52,820 - INFO -   Label encoding: has_online_delivery
+2026-05-24 15:14:52,822 - INFO -   Label encoding: is_delivering_now
+2026-05-24 15:14:52,824 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 15:14:52,827 - INFO -   Label encoding: is_fully_active
+2026-05-24 15:14:52,827 - INFO - encode_train finished: 12 label, 0 onehot
+2026-05-24 15:14:52,827 - INFO - encode_test started
+2026-05-24 15:14:56,532 - INFO -   Label encoding: restaurant_name
+2026-05-24 15:14:57,039 - INFO -   Label encoding: city
+2026-05-24 15:14:58,675 - INFO -   Label encoding: address
+2026-05-24 15:15:00,949 - INFO -   Label encoding: locality
+2026-05-24 15:15:03,300 - INFO -   Label encoding: locality_verbose
+2026-05-24 15:15:06,092 - INFO -   Label encoding: cuisines
+2026-05-24 15:15:06,361 - INFO -   Label encoding: currency
+2026-05-24 15:15:06,613 - INFO -   Label encoding: has_table_booking
+2026-05-24 15:15:06,861 - INFO -   Label encoding: has_online_delivery
+2026-05-24 15:15:07,105 - INFO -   Label encoding: is_delivering_now
+2026-05-24 15:15:07,343 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 15:15:07,598 - INFO -   Label encoding: is_fully_active
+2026-05-24 15:15:07,599 - INFO - encode_test finished: 19 columns
+2026-05-24 15:15:14,527 - INFO - scale_train started
+2026-05-24 15:15:14,625 - INFO - scale_train finished: 19 columns are done scaled
+2026-05-24 15:15:14,625 - INFO - scale_test started
+2026-05-24 15:15:14,658 - INFO - scale_test finished
+2026-05-24 15:22:25,177 - INFO - fillna_train started
+2026-05-24 15:22:25,227 - INFO - fillna_train finished: 16 columns filled
+2026-05-24 15:22:25,227 - INFO - fillna_test started
+2026-05-24 15:22:25,231 - INFO - fillna_test finished
+2026-05-24 15:22:25,366 - INFO - encode_train started
+2026-05-24 15:22:25,430 - INFO -   Label encoding: restaurant_name
+2026-05-24 15:22:25,433 - INFO -   Label encoding: city
+2026-05-24 15:22:25,466 - INFO -   Label encoding: address
+2026-05-24 15:22:25,471 - INFO -   Label encoding: locality
+2026-05-24 15:22:25,476 - INFO -   Label encoding: locality_verbose
+2026-05-24 15:22:25,482 - INFO -   Label encoding: cuisines
+2026-05-24 15:22:25,484 - INFO -   Label encoding: currency
+2026-05-24 15:22:25,486 - INFO -   Label encoding: has_table_booking
+2026-05-24 15:22:25,488 - INFO -   Label encoding: has_online_delivery
+2026-05-24 15:22:25,490 - INFO -   Label encoding: is_delivering_now
+2026-05-24 15:22:25,493 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 15:22:25,496 - INFO -   Label encoding: is_fully_active
+2026-05-24 15:22:25,496 - INFO - encode_train finished: 12 label, 0 onehot
+2026-05-24 15:22:25,496 - INFO - encode_test started
+2026-05-24 15:22:29,082 - INFO -   Label encoding: restaurant_name
+2026-05-24 15:22:29,589 - INFO -   Label encoding: city
+2026-05-24 15:22:31,213 - INFO -   Label encoding: address
+2026-05-24 15:22:33,418 - INFO -   Label encoding: locality
+2026-05-24 15:22:36,017 - INFO -   Label encoding: locality_verbose
+2026-05-24 15:22:39,620 - INFO -   Label encoding: cuisines
+2026-05-24 15:22:40,020 - INFO -   Label encoding: currency
+2026-05-24 15:22:40,434 - INFO -   Label encoding: has_table_booking
+2026-05-24 15:22:40,885 - INFO -   Label encoding: has_online_delivery
+2026-05-24 15:22:41,146 - INFO -   Label encoding: is_delivering_now
+2026-05-24 15:22:41,537 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 15:22:41,902 - INFO -   Label encoding: is_fully_active
+2026-05-24 15:22:41,902 - INFO - encode_test finished: 19 columns
+2026-05-24 15:22:51,964 - INFO - scale_train started
+2026-05-24 15:22:52,205 - INFO - scale_train finished: 19 columns are done scaled
+2026-05-24 15:22:52,205 - INFO - scale_test started
+2026-05-24 15:22:52,283 - INFO - scale_test finished
+2026-05-24 15:26:18,451 - INFO - fillna_train started
+2026-05-24 15:26:18,508 - INFO - fillna_train finished: 16 columns filled
+2026-05-24 15:26:18,508 - INFO - fillna_test started
+2026-05-24 15:26:18,518 - INFO - fillna_test finished
+2026-05-24 15:26:18,620 - INFO - encode_train started
+2026-05-24 15:26:18,671 - INFO -   Label encoding: restaurant_name
+2026-05-24 15:26:18,675 - INFO -   Label encoding: city
+2026-05-24 15:26:18,719 - INFO -   Label encoding: address
+2026-05-24 15:26:18,724 - INFO -   Label encoding: locality
+2026-05-24 15:26:18,729 - INFO -   Label encoding: locality_verbose
+2026-05-24 15:26:18,737 - INFO -   Label encoding: cuisines
+2026-05-24 15:26:18,739 - INFO -   Label encoding: currency
+2026-05-24 15:26:18,741 - INFO -   Label encoding: has_table_booking
+2026-05-24 15:26:18,743 - INFO -   Label encoding: has_online_delivery
+2026-05-24 15:26:18,744 - INFO -   Label encoding: is_delivering_now
+2026-05-24 15:26:18,746 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 15:26:18,749 - INFO -   Label encoding: is_fully_active
+2026-05-24 15:26:18,749 - INFO - encode_train finished: 12 label, 0 onehot
+2026-05-24 15:26:18,749 - INFO - encode_test started
+2026-05-24 15:26:22,301 - INFO -   Label encoding: restaurant_name
+2026-05-24 15:26:22,807 - INFO -   Label encoding: city
+2026-05-24 15:26:24,384 - INFO -   Label encoding: address
+2026-05-24 15:26:26,558 - INFO -   Label encoding: locality
+2026-05-24 15:26:28,851 - INFO -   Label encoding: locality_verbose
+2026-05-24 15:26:31,565 - INFO -   Label encoding: cuisines
+2026-05-24 15:26:31,830 - INFO -   Label encoding: currency
+2026-05-24 15:26:32,076 - INFO -   Label encoding: has_table_booking
+2026-05-24 15:26:32,314 - INFO -   Label encoding: has_online_delivery
+2026-05-24 15:26:32,559 - INFO -   Label encoding: is_delivering_now
+2026-05-24 15:26:32,796 - INFO -   Label encoding: switch_to_order_menu
+2026-05-24 15:26:33,044 - INFO -   Label encoding: is_fully_active
+2026-05-24 15:26:33,045 - INFO - encode_test finished: 19 columns
+2026-05-24 15:26:39,830 - INFO - scale_train started
+2026-05-24 15:26:39,903 - INFO - scale_train finished: 19 columns are done scaled
+2026-05-24 15:26:39,903 - INFO - scale_test started
+2026-05-24 15:26:39,931 - INFO - scale_test finished

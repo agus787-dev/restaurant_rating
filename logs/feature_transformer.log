@@ -1,0 +1,249 @@
+2026-05-23 15:54:27,573 - INFO - Log transform started
+2026-05-23 15:54:27,577 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-23 15:54:27,581 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-23 15:54:27,582 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-23 15:54:27,583 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-23 15:54:27,584 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-23 15:54:27,585 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-23 15:54:27,585 - INFO - Log transform finished: 6 columns
+2026-05-23 15:54:27,585 - INFO - Log transform (test) started
+2026-05-23 15:54:27,610 - INFO - Log transform (test) finished
+2026-05-23 15:54:55,918 - INFO - Log transform started
+2026-05-23 15:54:55,920 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-23 15:54:55,922 - INFO -   Log transform: city (skew: -1.20)
+2026-05-23 15:54:55,923 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-23 15:54:55,924 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-23 15:54:55,925 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-23 15:54:55,928 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-23 15:54:55,937 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-23 15:54:55,940 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-23 15:54:55,942 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-23 15:54:55,945 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-23 15:54:55,948 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-23 15:54:55,949 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-23 15:54:55,951 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-23 15:54:55,952 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-23 15:54:55,954 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-23 15:54:55,954 - INFO - Log transform finished: 15 columns
+2026-05-23 15:54:55,954 - INFO - Log transform (test) started
+2026-05-23 15:54:55,979 - INFO - Log transform (test) finished
+2026-05-23 15:55:22,171 - INFO - Log transform started
+2026-05-23 15:55:22,178 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-23 15:55:22,181 - INFO -   Log transform: city (skew: -1.20)
+2026-05-23 15:55:22,184 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-23 15:55:22,185 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-23 15:55:22,186 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-23 15:55:22,189 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-23 15:55:22,191 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-23 15:55:22,192 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-23 15:55:22,194 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-23 15:55:22,195 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-23 15:55:22,198 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-23 15:55:22,211 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-23 15:55:22,220 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-23 15:55:22,230 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-23 15:55:22,236 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-23 15:55:22,236 - INFO - Log transform finished: 15 columns
+2026-05-23 15:55:22,236 - INFO - Log transform (test) started
+2026-05-23 15:55:22,245 - INFO - Log transform (test) finished
+2026-05-23 15:57:49,874 - INFO - Log transform started
+2026-05-23 15:57:49,890 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-23 15:57:49,891 - INFO -   Log transform: city (skew: -1.20)
+2026-05-23 15:57:49,894 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-23 15:57:49,896 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-23 15:57:49,897 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-23 15:57:49,905 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-23 15:57:49,906 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-23 15:57:49,908 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-23 15:57:49,909 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-23 15:57:49,910 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-23 15:57:49,911 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-23 15:57:49,912 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-23 15:57:49,913 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-23 15:57:49,915 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-23 15:57:49,916 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-23 15:57:49,916 - INFO - Log transform finished: 15 columns
+2026-05-23 15:57:49,916 - INFO - Log transform (test) started
+2026-05-23 15:57:49,928 - INFO - Log transform (test) finished
+2026-05-23 16:01:29,732 - INFO - Log transform started
+2026-05-23 16:01:29,738 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-23 16:01:29,739 - INFO -   Log transform: city (skew: -1.20)
+2026-05-23 16:01:29,752 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-23 16:01:29,753 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-23 16:01:29,754 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-23 16:01:29,755 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-23 16:01:29,756 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-23 16:01:29,756 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-23 16:01:29,757 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-23 16:01:29,758 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-23 16:01:29,759 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-23 16:01:29,761 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-23 16:01:29,761 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-23 16:01:29,762 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-23 16:01:29,763 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-23 16:01:29,763 - INFO - Log transform finished: 15 columns
+2026-05-23 16:01:29,764 - INFO - Log transform (test) started
+2026-05-23 16:01:29,775 - INFO - Log transform (test) finished
+2026-05-23 16:08:14,959 - INFO - Log transform started
+2026-05-23 16:08:14,965 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-23 16:08:14,966 - INFO -   Log transform: city (skew: -1.20)
+2026-05-23 16:08:14,967 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-23 16:08:14,968 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-23 16:08:14,971 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-23 16:08:14,973 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-23 16:08:14,974 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-23 16:08:14,975 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-23 16:08:14,976 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-23 16:08:14,978 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-23 16:08:14,980 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-23 16:08:14,981 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-23 16:08:14,981 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-23 16:08:14,982 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-23 16:08:14,983 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-23 16:08:14,983 - INFO - Log transform finished: 15 columns
+2026-05-23 16:08:14,983 - INFO - Log transform (test) started
+2026-05-23 16:08:14,990 - INFO - Log transform (test) finished
+2026-05-23 16:20:37,279 - INFO - Log transform started
+2026-05-23 16:20:37,287 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-23 16:20:37,288 - INFO -   Log transform: city (skew: -1.20)
+2026-05-23 16:20:37,289 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-23 16:20:37,289 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-23 16:20:37,291 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-23 16:20:37,292 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-23 16:20:37,292 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-23 16:20:37,293 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-23 16:20:37,294 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-23 16:20:37,297 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-23 16:20:37,304 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-23 16:20:37,305 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-23 16:20:37,306 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-23 16:20:37,307 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-23 16:20:37,309 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-23 16:20:37,309 - INFO - Log transform finished: 15 columns
+2026-05-23 16:20:37,309 - INFO - Log transform (test) started
+2026-05-23 16:20:37,315 - INFO - Log transform (test) finished
+2026-05-24 14:18:58,948 - INFO - Log transform started
+2026-05-24 14:18:58,955 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-24 14:18:58,957 - INFO -   Log transform: city (skew: -1.20)
+2026-05-24 14:18:58,960 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-24 14:18:58,961 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-24 14:18:58,962 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-24 14:18:58,964 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-24 14:18:58,965 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-24 14:18:58,967 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-24 14:18:58,968 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-24 14:18:58,969 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-24 14:18:58,971 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-24 14:18:58,973 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-24 14:18:58,974 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-24 14:18:58,975 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-24 14:18:58,976 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-24 14:18:58,976 - INFO - Log transform finished: 15 columns
+2026-05-24 14:18:58,976 - INFO - Log transform (test) started
+2026-05-24 14:18:58,990 - INFO - Log transform (test) finished
+2026-05-24 14:21:55,357 - INFO - Log transform started
+2026-05-24 14:21:55,361 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-24 14:21:55,362 - INFO -   Log transform: city (skew: -1.20)
+2026-05-24 14:21:55,363 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-24 14:21:55,364 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-24 14:21:55,365 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-24 14:21:55,366 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-24 14:21:55,367 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-24 14:21:55,369 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-24 14:21:55,372 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-24 14:21:55,373 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-24 14:21:55,375 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-24 14:21:55,376 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-24 14:21:55,378 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-24 14:21:55,379 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-24 14:21:55,380 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-24 14:21:55,380 - INFO - Log transform finished: 15 columns
+2026-05-24 14:21:55,380 - INFO - Log transform (test) started
+2026-05-24 14:21:55,386 - INFO - Log transform (test) finished
+2026-05-24 14:45:56,821 - INFO - Log transform started
+2026-05-24 14:45:56,828 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-24 14:45:56,830 - INFO -   Log transform: city (skew: -1.20)
+2026-05-24 14:45:56,835 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-24 14:45:56,836 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-24 14:45:56,838 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-24 14:45:56,848 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-24 14:45:56,849 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-24 14:45:56,850 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-24 14:45:56,851 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-24 14:45:56,854 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-24 14:45:56,856 - INFO -   Log transform: votes (skew: 9.15)
+2026-05-24 14:45:56,857 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-24 14:45:56,858 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-24 14:45:56,860 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-24 14:45:56,862 - INFO -   Log transform: votes_per_price (skew: 9.02)
+2026-05-24 14:45:56,862 - INFO - Log transform finished: 15 columns
+2026-05-24 14:45:56,862 - INFO - Log transform (test) started
+2026-05-24 14:45:56,868 - INFO - Log transform (test) finished
+2026-05-24 14:47:43,638 - INFO - Log transform started
+2026-05-24 14:47:43,642 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-24 14:47:43,643 - INFO -   Log transform: city (skew: -1.20)
+2026-05-24 14:47:43,644 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-24 14:47:43,645 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-24 14:47:43,646 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-24 14:47:43,648 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-24 14:47:43,649 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-24 14:47:43,650 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-24 14:47:43,651 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-24 14:47:43,652 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-24 14:47:43,652 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-24 14:47:43,653 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-24 14:47:43,654 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-24 14:47:43,654 - INFO - Log transform finished: 13 columns
+2026-05-24 14:47:43,654 - INFO - Log transform (test) started
+2026-05-24 14:47:43,659 - INFO - Log transform (test) finished
+2026-05-24 15:15:07,620 - INFO - Log transform started
+2026-05-24 15:15:07,624 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-24 15:15:07,624 - INFO -   Log transform: city (skew: -1.20)
+2026-05-24 15:15:07,626 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-24 15:15:07,626 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-24 15:15:07,628 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-24 15:15:07,629 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-24 15:15:07,630 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-24 15:15:07,639 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-24 15:15:07,640 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-24 15:15:07,641 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-24 15:15:07,642 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-24 15:15:07,643 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-24 15:15:07,644 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-24 15:15:07,644 - INFO - Log transform finished: 13 columns
+2026-05-24 15:15:07,644 - INFO - Log transform (test) started
+2026-05-24 15:15:07,651 - INFO - Log transform (test) finished
+2026-05-24 15:22:41,941 - INFO - Log transform started
+2026-05-24 15:22:41,946 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-24 15:22:41,947 - INFO -   Log transform: city (skew: -1.20)
+2026-05-24 15:22:41,948 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-24 15:22:41,948 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-24 15:22:41,949 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-24 15:22:41,949 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-24 15:22:41,951 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-24 15:22:41,951 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-24 15:22:41,952 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-24 15:22:41,957 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-24 15:22:41,961 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-24 15:22:41,962 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-24 15:22:41,963 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-24 15:22:41,963 - INFO - Log transform finished: 13 columns
+2026-05-24 15:22:41,963 - INFO - Log transform (test) started
+2026-05-24 15:22:41,970 - INFO - Log transform (test) finished
+2026-05-24 15:26:33,060 - INFO - Log transform started
+2026-05-24 15:26:33,066 - INFO -   Log transform: country_code (skew: 3.05)
+2026-05-24 15:26:33,066 - INFO -   Log transform: city (skew: -1.20)
+2026-05-24 15:26:33,068 - INFO -   Log transform: longitude (skew: -2.80)
+2026-05-24 15:26:33,068 - INFO -   Log transform: latitude (skew: -3.10)
+2026-05-24 15:26:33,070 - INFO -   Log transform: average_cost_for_two (skew: 33.62)
+2026-05-24 15:26:33,071 - INFO -   Log transform: currency (skew: 2.95)
+2026-05-24 15:26:33,072 - INFO -   Log transform: has_table_booking (skew: 2.30)
+2026-05-24 15:26:33,073 - INFO -   Log transform: has_online_delivery (skew: 1.12)
+2026-05-24 15:26:33,074 - INFO -   Log transform: is_delivering_now (skew: 16.14)
+2026-05-24 15:26:33,079 - INFO -   Log transform: price_range (skew: 0.88)
+2026-05-24 15:26:33,080 - INFO -   Log transform: cost_per_person (skew: 33.62)
+2026-05-24 15:26:33,081 - INFO -   Log transform: is_fully_active (skew: 1.88)
+2026-05-24 15:26:33,082 - INFO -   Log transform: lat_lon_interaction (skew: -3.32)
+2026-05-24 15:26:33,082 - INFO - Log transform finished: 13 columns
+2026-05-24 15:26:33,082 - INFO - Log transform (test) started
+2026-05-24 15:26:33,089 - INFO - Log transform (test) finished

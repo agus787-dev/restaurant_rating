@@ -1,0 +1,182 @@
+2026-05-23 15:36:26,235 - INFO - Feature engineering started
+2026-05-23 15:36:26,238 - INFO - cost_per_person added
+2026-05-23 15:36:26,247 - INFO - is_fully_active added
+2026-05-23 15:36:26,248 - INFO - lat_lon_interaction added
+2026-05-23 15:36:26,255 - INFO - votes_per_price added
+2026-05-23 15:36:26,255 - INFO - Feature engineering finished: 24 columns
+2026-05-23 15:36:41,637 - INFO - Feature engineering started
+2026-05-23 15:36:41,643 - INFO - cost_per_person added
+2026-05-23 15:36:41,646 - INFO - is_fully_active added
+2026-05-23 15:36:41,647 - INFO - lat_lon_interaction added
+2026-05-23 15:36:41,649 - INFO - votes_per_price added
+2026-05-23 15:36:41,649 - INFO - Feature engineering finished: 24 columns
+2026-05-23 15:36:41,649 - INFO - Feature engineering started
+2026-05-23 15:36:41,651 - INFO - cost_per_person added
+2026-05-23 15:36:41,652 - INFO - is_fully_active added
+2026-05-23 15:36:41,653 - INFO - lat_lon_interaction added
+2026-05-23 15:36:41,654 - INFO - votes_per_price added
+2026-05-23 15:36:41,654 - INFO - Feature engineering finished: 24 columns
+2026-05-23 15:54:12,103 - INFO - Feature engineering started
+2026-05-23 15:54:12,105 - INFO - cost_per_person added
+2026-05-23 15:54:12,108 - INFO - is_fully_active added
+2026-05-23 15:54:12,109 - INFO - lat_lon_interaction added
+2026-05-23 15:54:12,110 - INFO - votes_per_price added
+2026-05-23 15:54:12,110 - INFO - Feature engineering finished: 24 columns
+2026-05-23 15:54:12,110 - INFO - Feature engineering started
+2026-05-23 15:54:12,112 - INFO - cost_per_person added
+2026-05-23 15:54:12,113 - INFO - is_fully_active added
+2026-05-23 15:54:12,113 - INFO - lat_lon_interaction added
+2026-05-23 15:54:12,114 - INFO - votes_per_price added
+2026-05-23 15:54:12,114 - INFO - Feature engineering finished: 24 columns
+2026-05-23 15:57:35,111 - INFO - Feature engineering started
+2026-05-23 15:57:35,116 - INFO - cost_per_person added
+2026-05-23 15:57:35,121 - INFO - is_fully_active added
+2026-05-23 15:57:35,122 - INFO - lat_lon_interaction added
+2026-05-23 15:57:35,125 - INFO - votes_per_price added
+2026-05-23 15:57:35,125 - INFO - Feature engineering finished: 24 columns
+2026-05-23 15:57:35,126 - INFO - Feature engineering started
+2026-05-23 15:57:35,128 - INFO - cost_per_person added
+2026-05-23 15:57:35,129 - INFO - is_fully_active added
+2026-05-23 15:57:35,130 - INFO - lat_lon_interaction added
+2026-05-23 15:57:35,132 - INFO - votes_per_price added
+2026-05-23 15:57:35,132 - INFO - Feature engineering finished: 24 columns
+2026-05-23 16:01:14,227 - INFO - Feature engineering started
+2026-05-23 16:01:14,242 - INFO - cost_per_person added
+2026-05-23 16:01:14,245 - INFO - is_fully_active added
+2026-05-23 16:01:14,246 - INFO - lat_lon_interaction added
+2026-05-23 16:01:14,287 - INFO - votes_per_price added
+2026-05-23 16:01:14,288 - INFO - Feature engineering finished: 24 columns
+2026-05-23 16:01:14,288 - INFO - Feature engineering started
+2026-05-23 16:01:14,289 - INFO - cost_per_person added
+2026-05-23 16:01:14,304 - INFO - is_fully_active added
+2026-05-23 16:01:14,305 - INFO - lat_lon_interaction added
+2026-05-23 16:01:14,306 - INFO - votes_per_price added
+2026-05-23 16:01:14,306 - INFO - Feature engineering finished: 24 columns
+2026-05-23 16:07:58,787 - INFO - Feature engineering started
+2026-05-23 16:07:58,800 - INFO - cost_per_person added
+2026-05-23 16:07:58,806 - INFO - is_fully_active added
+2026-05-23 16:07:58,807 - INFO - lat_lon_interaction added
+2026-05-23 16:07:58,808 - INFO - votes_per_price added
+2026-05-23 16:07:58,808 - INFO - Feature engineering finished: 24 columns
+2026-05-23 16:07:58,808 - INFO - Feature engineering started
+2026-05-23 16:07:58,809 - INFO - cost_per_person added
+2026-05-23 16:07:58,809 - INFO - is_fully_active added
+2026-05-23 16:07:58,810 - INFO - lat_lon_interaction added
+2026-05-23 16:07:58,811 - INFO - votes_per_price added
+2026-05-23 16:07:58,811 - INFO - Feature engineering finished: 24 columns
+2026-05-23 16:20:21,485 - INFO - Feature engineering started
+2026-05-23 16:20:21,490 - INFO - cost_per_person added
+2026-05-23 16:20:21,494 - INFO - is_fully_active added
+2026-05-23 16:20:21,495 - INFO - lat_lon_interaction added
+2026-05-23 16:20:21,497 - INFO - votes_per_price added
+2026-05-23 16:20:21,497 - INFO - Feature engineering finished: 24 columns
+2026-05-23 16:20:21,498 - INFO - Feature engineering started
+2026-05-23 16:20:21,499 - INFO - cost_per_person added
+2026-05-23 16:20:21,501 - INFO - is_fully_active added
+2026-05-23 16:20:21,502 - INFO - lat_lon_interaction added
+2026-05-23 16:20:21,502 - INFO - votes_per_price added
+2026-05-23 16:20:21,502 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:18:29,189 - INFO - Feature engineering started
+2026-05-24 14:18:29,199 - INFO - cost_per_person added
+2026-05-24 14:18:29,203 - INFO - is_fully_active added
+2026-05-24 14:18:29,204 - INFO - lat_lon_interaction added
+2026-05-24 14:18:29,205 - INFO - votes_per_price added
+2026-05-24 14:18:29,205 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:18:29,210 - INFO - Feature engineering started
+2026-05-24 14:18:29,211 - INFO - cost_per_person added
+2026-05-24 14:18:29,212 - INFO - is_fully_active added
+2026-05-24 14:18:29,213 - INFO - lat_lon_interaction added
+2026-05-24 14:18:29,213 - INFO - votes_per_price added
+2026-05-24 14:18:29,213 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:18:43,371 - INFO - Feature engineering started
+2026-05-24 14:18:43,376 - INFO - cost_per_person added
+2026-05-24 14:18:43,378 - INFO - is_fully_active added
+2026-05-24 14:18:43,379 - INFO - lat_lon_interaction added
+2026-05-24 14:18:43,380 - INFO - votes_per_price added
+2026-05-24 14:18:43,380 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:18:43,380 - INFO - Feature engineering started
+2026-05-24 14:18:43,382 - INFO - cost_per_person added
+2026-05-24 14:18:43,383 - INFO - is_fully_active added
+2026-05-24 14:18:43,384 - INFO - lat_lon_interaction added
+2026-05-24 14:18:43,384 - INFO - votes_per_price added
+2026-05-24 14:18:43,385 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:21:38,497 - INFO - Feature engineering started
+2026-05-24 14:21:38,503 - INFO - cost_per_person added
+2026-05-24 14:21:38,507 - INFO - is_fully_active added
+2026-05-24 14:21:38,510 - INFO - lat_lon_interaction added
+2026-05-24 14:21:38,511 - INFO - votes_per_price added
+2026-05-24 14:21:38,511 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:21:38,512 - INFO - Feature engineering started
+2026-05-24 14:21:38,513 - INFO - cost_per_person added
+2026-05-24 14:21:38,515 - INFO - is_fully_active added
+2026-05-24 14:21:38,515 - INFO - lat_lon_interaction added
+2026-05-24 14:21:38,517 - INFO - votes_per_price added
+2026-05-24 14:21:38,517 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:45:32,102 - INFO - Feature engineering started
+2026-05-24 14:45:32,108 - INFO - cost_per_person added
+2026-05-24 14:45:32,110 - INFO - is_fully_active added
+2026-05-24 14:45:32,112 - INFO - lat_lon_interaction added
+2026-05-24 14:45:32,113 - INFO - votes_per_price added
+2026-05-24 14:45:32,113 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:45:32,114 - INFO - Feature engineering started
+2026-05-24 14:45:32,115 - INFO - cost_per_person added
+2026-05-24 14:45:32,116 - INFO - is_fully_active added
+2026-05-24 14:45:32,117 - INFO - lat_lon_interaction added
+2026-05-24 14:45:32,117 - INFO - votes_per_price added
+2026-05-24 14:45:32,117 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:45:40,936 - INFO - Feature engineering started
+2026-05-24 14:45:40,943 - INFO - cost_per_person added
+2026-05-24 14:45:40,952 - INFO - is_fully_active added
+2026-05-24 14:45:40,953 - INFO - lat_lon_interaction added
+2026-05-24 14:45:40,954 - INFO - votes_per_price added
+2026-05-24 14:45:40,954 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:45:40,954 - INFO - Feature engineering started
+2026-05-24 14:45:40,955 - INFO - cost_per_person added
+2026-05-24 14:45:40,956 - INFO - is_fully_active added
+2026-05-24 14:45:40,957 - INFO - lat_lon_interaction added
+2026-05-24 14:45:40,958 - INFO - votes_per_price added
+2026-05-24 14:45:40,958 - INFO - Feature engineering finished: 24 columns
+2026-05-24 14:46:56,364 - INFO - Feature engineering started
+2026-05-24 14:46:56,367 - INFO - cost_per_person added
+2026-05-24 14:46:56,370 - INFO - is_fully_active added
+2026-05-24 14:46:56,372 - INFO - lat_lon_interaction added
+2026-05-24 14:47:27,457 - INFO - Feature engineering started
+2026-05-24 14:47:27,463 - INFO - cost_per_person added
+2026-05-24 14:47:27,467 - INFO - is_fully_active added
+2026-05-24 14:47:27,468 - INFO - lat_lon_interaction added
+2026-05-24 14:47:27,468 - INFO - Feature engineering finished: 19 columns
+2026-05-24 14:47:27,468 - INFO - Feature engineering started
+2026-05-24 14:47:27,471 - INFO - cost_per_person added
+2026-05-24 14:47:27,472 - INFO - is_fully_active added
+2026-05-24 14:47:27,472 - INFO - lat_lon_interaction added
+2026-05-24 14:47:27,473 - INFO - Feature engineering finished: 19 columns
+2026-05-24 15:14:52,650 - INFO - Feature engineering started
+2026-05-24 15:14:52,656 - INFO - cost_per_person added
+2026-05-24 15:14:52,659 - INFO - is_fully_active added
+2026-05-24 15:14:52,660 - INFO - lat_lon_interaction added
+2026-05-24 15:14:52,660 - INFO - Feature engineering finished: 19 columns
+2026-05-24 15:14:52,660 - INFO - Feature engineering started
+2026-05-24 15:14:52,663 - INFO - cost_per_person added
+2026-05-24 15:14:52,664 - INFO - is_fully_active added
+2026-05-24 15:14:52,665 - INFO - lat_lon_interaction added
+2026-05-24 15:14:52,665 - INFO - Feature engineering finished: 19 columns
+2026-05-24 15:22:25,257 - INFO - Feature engineering started
+2026-05-24 15:22:25,267 - INFO - cost_per_person added
+2026-05-24 15:22:25,270 - INFO - is_fully_active added
+2026-05-24 15:22:25,270 - INFO - lat_lon_interaction added
+2026-05-24 15:22:25,270 - INFO - Feature engineering finished: 19 columns
+2026-05-24 15:22:25,271 - INFO - Feature engineering started
+2026-05-24 15:22:25,274 - INFO - cost_per_person added
+2026-05-24 15:22:25,275 - INFO - is_fully_active added
+2026-05-24 15:22:25,277 - INFO - lat_lon_interaction added
+2026-05-24 15:22:25,277 - INFO - Feature engineering finished: 19 columns
+2026-05-24 15:26:18,543 - INFO - Feature engineering started
+2026-05-24 15:26:18,554 - INFO - cost_per_person added
+2026-05-24 15:26:18,557 - INFO - is_fully_active added
+2026-05-24 15:26:18,558 - INFO - lat_lon_interaction added
+2026-05-24 15:26:18,558 - INFO - Feature engineering finished: 19 columns
+2026-05-24 15:26:18,558 - INFO - Feature engineering started
+2026-05-24 15:26:18,559 - INFO - cost_per_person added
+2026-05-24 15:26:18,560 - INFO - is_fully_active added
+2026-05-24 15:26:18,560 - INFO - lat_lon_interaction added
+2026-05-24 15:26:18,560 - INFO - Feature engineering finished: 19 columns

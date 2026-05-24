@@ -1,0 +1,8 @@
+setup.py
+restaurant_project.egg-info/PKG-INFO
+restaurant_project.egg-info/SOURCES.txt
+restaurant_project.egg-info/dependency_links.txt
+restaurant_project.egg-info/top_level.txt
+src/__init__.py
+src/data_loader.py
+src/logger.py
